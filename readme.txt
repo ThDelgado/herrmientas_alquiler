@@ -1,0 +1,11 @@
+CUE: SENTENCIAS DDL A PARTIR DE MODELO FÍSICO 
+DRILLING: ARRIENDO DE HERRAMIENTAS 
+
+evaluacion3
+
+m5s4
+
+para clonar:
+
+
+Thelma Delgado
